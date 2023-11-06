@@ -3,3 +3,5 @@ Las tecnologias a utilizar son: HTML5, CSS y Javascript como Fronted. En backend
 Para crear las interfaces (vistas del proyecto) se utilizara Adobe XD (adobe experience design). 
 El navegador con que estare trabajando va a ser Google Chrome.
 
+Descripción: 
+Sitio Web en el cual se permite la visualización de peliculas desde cualquier lugar via romoto teniendo la comodidad de un horario flexible.
